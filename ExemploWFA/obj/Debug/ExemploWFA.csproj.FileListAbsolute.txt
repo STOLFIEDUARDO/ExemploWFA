@@ -1,0 +1,11 @@
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.exe.config
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.exe
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.pdb
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.csprojResolveAssemblyReference.cache
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Form1.resources
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Properties.Resources.resources
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.csproj.GenerateResource.Cache
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.exe
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.pdb
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo02.resources
+c:\users\104957\documents\visual studio 2013\Projects\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo03.resources
